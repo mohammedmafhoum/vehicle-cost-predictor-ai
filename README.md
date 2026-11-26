@@ -35,21 +35,7 @@ Covers **gas**, **hybrid** and **electric** vehicles.
 ## Tech stack
 
 - Python
-- Neural network (CNN) – Keras / TensorFlow
-- pandas, NumPy (data preparation)
-
-## Run it
-
-```bash
-git clone https://github.com/mohammedmafhoum/vehicle-cost-predictor-ai.git
-cd vehicle-cost-predictor-ai
-pip install -r requirements.txt
-python predict.py
-```
-
-## Results
-
-_Add your model's accuracy / error and a few example predictions here._
+- Neural network (CNN)
 
 ## My role
 
